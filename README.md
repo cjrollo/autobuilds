@@ -1,5 +1,3 @@
-Base Operating System
+Automated Build Land
 
-This image should be built automatically. It is based on the latest version of Alpine.
-
-A quick test should be 'docker exec <image> ash'
+The code in this repository should build automatically in response to an SCM command (like 'commit')
